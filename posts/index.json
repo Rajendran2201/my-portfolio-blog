@@ -1,12 +1,14 @@
 [
   {
-    "slug": "a-few-useful-things-to-know-about-machine-learning-explained-md",
+    "slug": "a-few-useful-things-to-know-about-machine-learning-explained",
     "title": "A Few Useful Things to Know about Machine Learning - Explained",
-    "date": "2024-11-05"
+    "date": "2024-11-05",
+    "github_url": "https://github.com/Rajendran2201/my-portfolio-blog/blob/main/posts/A%20Few%20Useful%20Things%20to%20Know%20about%20Machine%20Learning%20-%20Explained.md"
   },
   {
-    "slug": "infant-cry-detection-md",
+    "slug": "infant-cry-detection-a-deep-learning-based-approach-to-analyse-baby-cry-sounds",
     "title": "Infant Cry Detection - a deep learning based approach to analyse baby cry sounds",
-    "date": "2025-02-11"
+    "date": "2025-02-11",
+    "github_url": "https://github.com/Rajendran2201/my-portfolio-blog/blob/main/posts/InfanCryDetection.md"
   }
 ]
