@@ -1,11 +1,7 @@
+# The Craft of Writing Effectively
+Reference:  talk by Larry McEnerney, Director of the University of Chicago's Writing Program
 
------
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vtIzMaLkCaM?si=W5EPbcMPiGKuqnQu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
----
-# LEADERSHIP LAB: The Craft of Writing Effectively
-Speaker:  Larry McEnerney, Director of the University of Chicago's Writing Program
+The talk is available on YouTube, do check it out [here](https://www.youtube.com/watch?v=vtIzMaLkCaM&pp=ygUedGhlIGFydCBvZiB3cml0aW5nIGVmZmVjdGl2ZWx5)
 
 > Reference: [Course Handout](https://cpb-us-w2.wpmucdn.com/u.osu.edu/dist/5/7046/files/2014/10/UnivChic_WritingProg-1grt232.pdf) 
 
@@ -18,7 +14,7 @@ Speaker:  Larry McEnerney, Director of the University of Chicago's Writing Progr
 - You are not ready to write a word until you finish your writing - WRONG APPROACH
 - Write down your ideas, create an outline and then write the final draft.
 
-**What happen's when you read bad text?**
+**What happens when you read bad text?**
 
 ```mermaid
 graph TD
